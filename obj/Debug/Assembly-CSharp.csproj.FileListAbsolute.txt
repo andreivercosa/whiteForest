@@ -1,0 +1,2 @@
+C:\Users\Andrei\Documents\Unity\white forest - the awaken\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Andrei\Documents\Unity\white forest - the awaken\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
